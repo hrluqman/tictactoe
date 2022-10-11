@@ -54,9 +54,6 @@ body {
   justify-content: center;
   align-items: center;
   color: var(--red);
-  /* box-shadow: 0 2px 4px rgb(255 255 255 / 20%);
-  -webkit-box-shadow: 0 2px 4px rgb(255 255 255 / 20%);
-  -moz-box-shadow: 0 2px 4px rgb(255 255 255 / 20%); */
 }
 
 .board-container td .cell-box[win='1'] {
