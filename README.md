@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Demo
-https://tictactoe-hrluqman.vercel.app/
+https://tictactoe.hrluqman.com/
 
 ## Available Scripts
 
